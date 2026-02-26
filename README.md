@@ -1,4 +1,4 @@
-# 🎓 Student CGPA API
+                                                          # 🎓 Student CGPA API
 
 A RESTful API built using **Node.js** and **Express.js** to manage student academic performance records using an in-memory JSON database.
 
@@ -29,11 +29,11 @@ https://github.com/Dharmi-456-design/JS_FOR_BACKEND-ASSIGNMENT/tree/main/STUDENT
 
 
 
-🛒 E-Commerce Product API
+                                                                 # 🛒 E-Commerce Product API
 
 A RESTful API built using Node.js and Express.js to manage e-commerce product data using an in-memory JSON database.
 
-🚀 Features
+ ##🚀 Features
 
 Get all products
 
@@ -49,18 +49,18 @@ Update product stock
 
 Update product price
 
-🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 
 Node.js | Express.js | CORS | Render | Postman
 
-🌍 Live API
+ ## 🌍 Live API
 
 https://js-for-backend-assignment-2.onrender.com/products
 
-📮 API Documentation
+## 📮 API Documentation
 
 https://documenter.getpostman.com/view/50839318/2sBXcEmgat
 
-💻 GitHub Repository
+##💻 GitHub Repository
 
 https://github.com/Dharmi-456-design/JS_FOR_BACKEND-ASSIGNMENT/tree/main/E-Commerce%20Product
