@@ -51,7 +51,7 @@ Node.js | Express.js | CORS | Render | Postman
 
  ## 🌍 Live API
 
-https://js-for-backend-assignment-2.onrender.com/products
+
 
 ## 📮 API Documentation
 
@@ -59,4 +59,4 @@ https://documenter.getpostman.com/view/50839318/2sBXcEmgat
 
 ##💻 GitHub Repository
 
-https://github.com/Dharmi-456-design/JS_FOR_BACKEND-ASSIGNMENT/tree/main/E-Commerce%20Product
+https://github.com/Dharmi-456-design/JS_FOR_BACKEND-ASSIGNMENT/tree/main/State%20Statistics%20Management
