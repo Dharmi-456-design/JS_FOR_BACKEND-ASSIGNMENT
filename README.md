@@ -20,4 +20,47 @@ https://student-cgpa-kh2r.onrender.com/students
 https://documenter.getpostman.com/view/50839318/2sBXcEmgat
 
 ## 💻 GitHub Repository
-https://github.com/Dharmi-456-design/JS_FOR_BACKEND-ASSIGNMENT
+https://github.com/Dharmi-456-design/JS_FOR_BACKEND-ASSIGNMENT/tree/main/STUDENT%20CGPA
+
+
+
+
+
+
+
+
+🛒 E-Commerce Product API
+
+A RESTful API built using Node.js and Express.js to manage e-commerce product data using an in-memory JSON database.
+
+🚀 Features
+
+Get all products
+
+Get product by ID
+
+Filter products by category
+
+Add new product
+
+Replace entire product
+
+Update product stock
+
+Update product price
+
+🛠️ Tech Stack
+
+Node.js | Express.js | CORS | Render | Postman
+
+🌍 Live API
+
+https://js-for-backend-assignment-2.onrender.com/products
+
+📮 API Documentation
+
+https://documenter.getpostman.com/view/50839318/2sBXcEmgat
+
+💻 GitHub Repository
+
+https://github.com/Dharmi-456-design/JS_FOR_BACKEND-ASSIGNMENT/tree/main/E-Commerce%20Product
