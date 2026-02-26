@@ -25,11 +25,7 @@ https://github.com/Dharmi-456-design/JS_FOR_BACKEND-ASSIGNMENT/tree/main/STUDENT
 
 
 
-
-
-
-
-                                                                 # 🛒 E-Commerce Product API
+                                                            # 🛒 E-Commerce Product API
 
 A RESTful API built using Node.js and Express.js to manage e-commerce product data using an in-memory JSON database.
 
